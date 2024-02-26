@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in entrprenuership and team building
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on serious work
+- 📫 Feel free to reach out 
